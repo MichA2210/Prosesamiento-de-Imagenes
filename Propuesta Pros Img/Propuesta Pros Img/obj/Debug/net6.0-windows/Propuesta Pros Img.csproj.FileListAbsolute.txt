@@ -1,0 +1,125 @@
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.exe
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.deps.json
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.runtimeconfig.json
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.pdb
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.AssemblyReference.cache
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Form1.resources
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.GenerateResource.cache
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.AssemblyInfoInputs.cache
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.AssemblyInfo.cs
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.CoreCompileInputs.cache
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\refint\Propuesta Pros Img.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.pdb
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.genruntimeconfig.cache
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\ref\Propuesta Pros Img.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Properties.Resources.resources
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Images.resources
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Video.resources
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.VideoCap.resources
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.CopyComplete
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.exe
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.deps.json
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.runtimeconfig.json
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.dll
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.pdb
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Form1.resources
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Images.resources
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Properties.Resources.resources
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Video.resources
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.VideoCap.resources
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.CopyComplete
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.dll
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\refint\Propuesta Pros Img.dll
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.pdb
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\ref\Propuesta Pros Img.dll
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.exe
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.deps.json
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.runtimeconfig.json
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.dll
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.pdb
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Form1.resources
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Images.resources
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Video.resources
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.VideoCap.resources
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.dll
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\refint\Propuesta Pros Img.dll
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.pdb
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\ref\Propuesta Pros Img.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\OpenTK.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\OpenTK.GLControl.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\ZedGraph.dll
+C:\Users\BestBuy\source\repos\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.HistoForm.resources
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.exe
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.deps.json
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.runtimeconfig.json
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Propuesta Pros Img.pdb
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\OpenTK.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\OpenTK.GLControl.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\ZedGraph.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Emgu.CV.UI.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Emgu.CV.UI.GL.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Emgu.CV.World.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Emgu.CV.UI.xml
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Emgu.CV.UI.GL.xml
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\Emgu.CV.World.xml
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.AssemblyReference.cache
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Form1.resources
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.HistoForm.resources
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Images.resources
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Properties.Resources.resources
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.Video.resources
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta_Pros_Img.VideoCap.resources
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.GenerateResource.cache
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.AssemblyInfoInputs.cache
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.AssemblyInfo.cs
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.CoreCompileInputs.cache
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.csproj.CopyComplete
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\refint\Propuesta Pros Img.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.pdb
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\Propuesta Pros Img.genruntimeconfig.cache
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\obj\Debug\net6.0-windows\ref\Propuesta Pros Img.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\concrt140.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\cvextern.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\cvextern.lib
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\msvcp140.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\opencv_ffmpeg330_64.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\vcruntime140.dll
+C:\Users\BestBuy\Desktop\Propuesta Pros Img\Propuesta Pros Img\bin\Debug\net6.0-windows\haarcascade_frontalface_alt_tree.xml
