@@ -47,11 +47,12 @@
             // 
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "Filtro 1",
-            "Filtro 2",
-            "Filtro 3",
-            "Filtro 4",
-            "Filtro 5"});
+            "- Selecciona un Filtro -",
+            "Sepia",
+            "Escala de Grises",
+            "Negativo",
+            "Medio Espejo",
+            "Flip Horizontal"});
             this.comboBox1.Location = new System.Drawing.Point(232, 680);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(264, 28);
@@ -75,6 +76,7 @@
             this.button2.TabIndex = 12;
             this.button2.Text = "Aplicar";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 

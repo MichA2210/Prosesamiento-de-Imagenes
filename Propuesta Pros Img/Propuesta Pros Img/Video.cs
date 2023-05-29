@@ -12,6 +12,7 @@ using System.Windows.Forms;
 using Emgu.CV;
 using Emgu.CV.CvEnum;
 using Emgu.CV.Structure;
+using OpenTK.Graphics;
 
 namespace Propuesta_Pros_Img
 {
@@ -29,6 +30,8 @@ namespace Propuesta_Pros_Img
         int CurrentFrameNo;
         Mat CurrentFrame;
         int FPS;
+
+        int i = 0;
 
         public Video()
         {
@@ -134,7 +137,40 @@ namespace Propuesta_Pros_Img
                     videocapture.Read(CurrentFrame);
                     //Aqui dentro creo van los filtros
                     //CvInvoke.CvtColor(CurrentFrame, CurrentFrame, ColorConversion.Bgr2Gray);
-                    //ApplySepiaFilter(CurrentFrame);
+                    switch (i)
+                    {
+                        case 0: // No filter
+                            {
+                                
+                                break;
+                            }
+                        case 1: // Sepia
+                            {
+                                ApplySepiaFilter(ref CurrentFrame);
+                                break;
+                            }
+                        case 2: // Escala de Grises  
+                            {
+                                ApplyGreyScale(ref CurrentFrame);
+                                break;
+                            }
+                        case 3: // Negativo
+                            {
+                                ApplyNegative(ref CurrentFrame);
+                                break;
+                            }
+                        case 4: // Medio Espejo
+                            {
+                                ApplyMedioEspejo(ref CurrentFrame);
+                                break;
+                            }
+                        case 5: // Flip Horizontal
+                            {
+                                ApplyHorizontalFlip(ref CurrentFrame);
+                                break;
+                            }
+                        default: { break; }
+                    }
                     pictureBox1.Image = CurrentFrame.Bitmap;
                     //Aqui dentro creo van los filtros
                     trackBar1.Value = CurrentFrameNo;
@@ -149,7 +185,12 @@ namespace Propuesta_Pros_Img
             }
         }
 
-        private void ApplySepiaFilter(Mat frame)
+        private void button2_Click(object sender, EventArgs e)
+        {
+            i = comboBox1.SelectedIndex;
+        }
+
+        private void ApplySepiaFilter(ref Mat frame)
         {
             Image<Bgr, byte> imgBgr = frame.ToImage<Bgr, byte>();
 
@@ -175,6 +216,106 @@ namespace Propuesta_Pros_Img
             frame.Dispose();
             frame = imgBgr.Mat;
         }
+
+        private void ApplyGreyScale(ref Mat frame)
+        {
+            Image<Bgr, byte> imgBgr = frame.ToImage<Bgr, byte>();
+
+            for (int y = 0; y < imgBgr.Height; y++)
+            {
+                for (int x = 0; x < imgBgr.Width; x++)
+                {
+                    Bgr pixel = imgBgr[y, x];
+
+                    double g = pixel.Red * 0.2126f + pixel.Green * 0.7152f + pixel.Blue * 0.0722f;
+
+                    // Ajustar los valores dentro del rango permitido (0-255)
+                    byte adjustedG = (byte)Math.Min(255, Math.Max(0, g));
+
+                    imgBgr[y, x] = new Bgr(g, g, g);
+                }
+            }
+
+            frame.Dispose();
+            frame = imgBgr.Mat;
+        }
+
+        private void ApplyNegative(ref Mat frame)
+        {
+            Image<Bgr, byte> imgBgr = frame.ToImage<Bgr, byte>();
+
+            for (int y = 0; y < imgBgr.Height; y++)
+            {
+                for (int x = 0; x < imgBgr.Width; x++)
+                {
+                    Bgr pixel = imgBgr[y, x];
+
+                    double negR = 255 - pixel.Red;
+                    double negG = 255 - pixel.Green;
+                    double negB = 255 - pixel.Blue;
+
+                    // Ajustar los valores dentro del rango permitido (0-255)
+                    byte adjustedR = (byte)Math.Min(255, Math.Max(0, negR));
+                    byte adjustedG = (byte)Math.Min(255, Math.Max(0, negG));
+                    byte adjustedB = (byte)Math.Min(255, Math.Max(0, negB));
+
+                    imgBgr[y, x] = new Bgr(negB, negR, negR);
+                }
+            }
+
+            frame.Dispose();
+            frame = imgBgr.Mat;
+        }
+
+        private void ApplyMedioEspejo(ref Mat frame)
+        {
+            Image<Bgr, byte> imgBgr = frame.ToImage<Bgr, byte>();
+
+            int width = frame.Width;
+            int height = frame.Height;
+
+
+            for (int x = 0; x < width; x++)
+                for (int y = 0; y < height; y++)
+                {
+                    // Obtenemos el color del pixel
+                    Bgr pixel = imgBgr[y, x];
+
+
+                    // Colocamos el color
+                    imgBgr[y, width - x - 1] = pixel;
+                }
+
+            frame.Dispose();
+            frame = imgBgr.Mat;
+        }
+
+        private void ApplyHorizontalFlip(ref Mat frame)
+        {
+            Image<Bgr, byte> imgBgr = frame.ToImage<Bgr, byte>();
+
+            int width = frame.Width;
+            int height = frame.Height;
+
+            for (int x = 0; x < width/2; x++)
+                for (int y = 0; y < height; y++)
+                {
+                    // Obtenemos el color del pixel
+                    Bgr pixel = imgBgr[y, x];
+
+                    // Hacemos Swap
+                    imgBgr[y, x] = imgBgr[y, width - x - 1];
+
+
+                    // Colocamos el color
+                    imgBgr[y, width - x - 1] = pixel;
+                }
+
+            frame.Dispose();
+            frame = imgBgr.Mat;
+        }
+
+
     }
-    
+
 }
